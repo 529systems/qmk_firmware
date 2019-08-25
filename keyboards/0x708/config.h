@@ -28,8 +28,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DESCRIPTION     A through hole kit in the 1800 layout.
 
 /* key matrix size */
-#define MATRIX_ROWS 2
-#define MATRIX_COLS 3
+#define MATRIX_ROWS 7
+#define MATRIX_COLS 18
 
 /*
  * Keyboard Matrix Assignments
